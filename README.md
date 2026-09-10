@@ -25,6 +25,12 @@ The objective is not only to design the individual circuits, but to understand h
 - Schematic capture and system integration
 - PCB layout and grounding
 
+##System 
+
+<p align="center">
+<img src="images/system.png" width="1000">
+</p>
+
 ## Engineering Objectives
 
 This project is being developed to build practical experience with:
