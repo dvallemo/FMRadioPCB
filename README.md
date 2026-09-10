@@ -25,7 +25,7 @@ The objective is not only to design the individual circuits, but to understand h
 - Schematic capture and system integration
 - PCB layout and grounding
 
-##System 
+## System 
 
 <p align="center">
 <img src="images/system.png" width="1000">
